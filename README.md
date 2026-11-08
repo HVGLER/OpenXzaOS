@@ -1,0 +1,2 @@
+# OpenXzaOS
+OpenXzaOS是一款由HHJ和AI同步编写的X86-64架构的图形化操作系统。兼容exe文件和elf文件。支持星际工作室编写的elf编译套件编译出来的elf文件。还有GPL3.0许可
